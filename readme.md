@@ -20,6 +20,8 @@
 - [ ] [Recursion](#recursion) (3)
 - [ ] [Matrix](#matrix) (1)
 
+---
+
 ### Array
 
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum) - [Solution](/array/two-sum.py)
@@ -75,9 +77,6 @@
 
 - [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 - [ ] [Balanced Binary Tree](https://leetcode.com/problems/bal)
-
-### Binary Tree (Continued)
-
 - [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
 - [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 - [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
