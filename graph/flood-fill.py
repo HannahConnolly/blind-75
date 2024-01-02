@@ -1,5 +1,12 @@
 """
 https://leetcode.com/problems/flood-fill/submissions/
+
+Notes:
+Large if statement at beginning of inner function makes it easy for boundaries 
+
+Similar to recursive functions
+
+inner functions do not need self
 """
 
 
