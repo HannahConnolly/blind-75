@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in Python. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
 
-## Problem Solved: 6 / 75
+## Problem Solved: 7 / 75
 
 - [ ] [Array](#array) (11)
 - [ ] [Stack](#stack) (7)
@@ -75,7 +75,7 @@
 
 ### Binary Tree
 
-- [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+- [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) - [Solution](https://leetcode.com/problems/invert-binary-tree/)
 - [ ] [Balanced Binary Tree](https://leetcode.com/problems/bal)
 - [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
 - [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
