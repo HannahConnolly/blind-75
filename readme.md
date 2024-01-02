@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in Python. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
 
-## Problem Solved: 7 / 75
+## Problem Solved: 10 / 75
 
 - [ ] [Array](#array) (11)
 - [ ] [Stack](#stack) (7)
@@ -63,7 +63,7 @@
 ### String
 
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) - [Solution](/array/valid-palindrome.py)
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram) - [Solution](/string/valid-anagram.py)
 - [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - [ ] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)
@@ -85,7 +85,7 @@
 - [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
 - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
-- [ ] [Binary Search](https://leetcode.com/problems/binary-search)
+- [x] [Binary Search](https://leetcode.com/problems/binary-search) - [Solution](https://leetcode.com/problems/binary-search/solutions/3363885/easy-solutions-in-java-python-and-c-look-at-once-with-exaplanation/)
 - [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 - [ ] [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)
@@ -95,7 +95,7 @@
 
 ### Graph
 
-- [ ] [Flood Fill](https://leetcode.com/problems/flood-fill)
+- [x] [Flood Fill](https://leetcode.com/problems/flood-fill) - [Solution](/graph/flood-fill.py)
 - [ ] [01 Matrix](https://leetcode.com/problems/01-matrix)
 - [ ] [Clone Graph](https://leetcode.com/problems/clone-graph)
 - [ ] [Course Schedule](https://leetcode.com/problems/course-schedule)
