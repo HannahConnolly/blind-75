@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in Python. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
 
-## Problem Solved: 5 / 75
+## Problem Solved: 6 / 75
 
 - [ ] [Array](#array) (11)
 - [ ] [Stack](#stack) (7)
@@ -24,7 +24,7 @@
 
 ### Array
 
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum) - [Solution](/array/two-sum.py)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum) - [Solution](/array/two-sum.py)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) - [Solution](/array/buy-and-sell-stock.py)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 - [ ] [Majority Element](https://leetcode.com/problems/majority-element)
@@ -62,7 +62,7 @@
 
 ### String
 
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) - [Solution](/array/valid-palindrome.py)
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 - [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
