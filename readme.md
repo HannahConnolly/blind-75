@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in Python. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
 
-## Problem Solved: 12 / 75
+## Problem Solved: 13 / 75
 
 - [ ] [Array](#array) (11)
 - [ ] [Stack](#stack) (7)
@@ -53,7 +53,7 @@
 ### Linked List
 
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) - [Solution](/linked%20list/merge-two-sorted-lists.py)
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
+- [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) - [Solution](/linked%20list/linked-list-cycle.py)
 - [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list)
 - [ ] [Middle of the Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 - [ ] [LRU Cache](https://leetcode.com/problems/reorder-list)
