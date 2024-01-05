@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in Python. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
 
-## Problem Solved: 13 / 75
+## Problem Solved: 14 / 75
 
 - [ ] [Array](#array) (11)
 - [ ] [Stack](#stack) (7)
@@ -41,7 +41,7 @@
 ### Stack
 
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - [Solution](/stack/valid-parentheses.py)
-- [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
+- [x] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) - [Solution](/stack/queue-using-stacks.py)
 - [ ] [Min Stack](https://leetcode.com/problems/min-stack)
 - [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
 - [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
