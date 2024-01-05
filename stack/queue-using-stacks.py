@@ -1,3 +1,10 @@
+'''
+https://leetcode.com/problems/implement-queue-using-stacks/
+
+Notes:
+Reversing a stack can act as a queue
+'''
+
 class MyQueue:
 
     def __init__(self):
