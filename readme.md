@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in Python. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
 
-## Problem Solved: 16 / 75
+## Problem Solved: 17 / 75
 
 - [ ] [Array](#array) (11)
 - [ ] [Stack](#stack) (7)
@@ -111,7 +111,7 @@
 ### Dynamic Programming
 
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) - [Solution](/dynamic%20programming/climbing-stairs.py)
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change)
 - [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/maximum-subarray)
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths)
