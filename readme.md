@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in Python. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
 
-## Problem Solved: 14 / 75
+## Problem Solved: 15 / 75
 
 - [ ] [Array](#array) (11)
 - [ ] [Stack](#stack) (7)
@@ -85,8 +85,8 @@
 - [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
 - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
-- [x] [Binary Search](https://leetcode.com/problems/binary-search) - [Solution](https://leetcode.com/problems/binary-search/solutions/3363885/easy-solutions-in-java-python-and-c-look-at-once-with-exaplanation/)
-- [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version)
+- [x] [Binary Search](https://leetcode.com/problems/binary-search) - [Solution](/binary%20tree/binary-search.py)
+- [x] [First Bad Version](https://leetcode.com/problems/first-bad-version) - [Solution](/binary%20tree/first-bad-version.py)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 - [ ] [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)
 - [ ] [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)
