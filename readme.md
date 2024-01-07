@@ -54,7 +54,7 @@
 
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) - [Solution](/linked%20list/merge-two-sorted-lists.py)
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) - [Solution](/linked%20list/linked-list-cycle.py)
-- [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list)
+- [X] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list) - [Solution](/linked%20list/reverse-linked-list.py)
 - [ ] [Middle of the Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 - [ ] [LRU Cache](https://leetcode.com/problems/reorder-list)
 
