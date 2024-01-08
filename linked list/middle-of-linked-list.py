@@ -1,5 +1,8 @@
 '''
 https://leetcode.com/problems/middle-of-the-linked-list/submissions/
+
+Notes:
+you can use two equals signs in python sequentially
 '''
 
 # Definition for singly-linked list.
@@ -9,19 +12,10 @@ https://leetcode.com/problems/middle-of-the-linked-list/submissions/
 #         self.next = next
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        
-        if not head:
-            return None
 
-        if not head.next:
-            return head
+        slow = fast = head
 
-        slow = head
-        fast = head.next
-
-        while fast:
-            if not fast.next:
-                return slow.next
+        while fast and fast.next:
             
             fast = fast.next.next
             slow = slow.next

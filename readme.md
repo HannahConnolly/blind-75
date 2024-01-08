@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in Python. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
 
-## Problem Solved: 23 / 75
+## Problem Solved: 24 / 75
 
 - [ ] [Array](#array) (11)
 - [ ] [Stack](#stack) (7)
@@ -79,7 +79,7 @@
 - [x] [Balanced Binary Tree](https://leetcode.com/problems/bal) - [Solution](/binary%20tree/balanced-binary-tree.py)
 - [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
 - [x] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) - [Solution](/binary%20tree/diameter-of-binary-tree.py)
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
+- [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) - [Solution](/binary%20tree/depth-of-binary-tree.py)
 - [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
 - [x] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) - [Solution](/binary%20tree/lowest-common-ancestor.py)
 - [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
