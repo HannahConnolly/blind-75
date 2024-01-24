@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in Python. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
 
-## Problem Solved: 25 / 75
+## Problem Solved: 26 / 75
 
 - [ ] [Array](#array) (11)
 - [ ] [Stack](#stack) (7)
@@ -28,7 +28,7 @@
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) - [Solution](/array/buy-and-sell-stock.py)
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) - [Solution](/array/contains-duplicate.py)
 - [x] [Majority Element](https://leetcode.com/problems/majority-element) - [Solution](/array/majority-element.py)
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval)
+- [x] [Insert Interval](https://leetcode.com/problems/insert-interval) - [Solution](/array/insert-interval.py)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
 - [ ] [Combination Sum](https://leetcode.com/problems/combination-sum)
