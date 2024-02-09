@@ -2,7 +2,7 @@
 
 > This repository is a software engineer interview prepration, which provides solutions for 75 leetcode questions in Python. The original post can be found on [here](https://www.techinterviewhandbook.org/grind75?grouping=topics&order=difficulty&hours=8). Questions can be categorized into 15 cagtegories, including Array, Stack, Linked List, String, Binary Tree, Binary Search, Graph, Dynamic Programming, Binary Search Tree, Hash Table, Binary, Heap, Trie, Recursion, and Matrix.
 
-## Problem Solved: 27 / 75
+## Problem Solved: 28 / 75
 
 - [ ] [Array](#array) (11)
 - [ ] [Stack](#stack) (7)
@@ -96,7 +96,7 @@
 ### Graph
 
 - [x] [Flood Fill](https://leetcode.com/problems/flood-fill) - [Solution](/graph/flood-fill.py)
-- [ ] [01 Matrix](https://leetcode.com/problems/01-matrix)
+- [x] [01 Matrix](https://leetcode.com/problems/01-matrix) - [Solution](/graph/matrix.py)
 - [ ] [Clone Graph](https://leetcode.com/problems/clone-graph)
 - [ ] [Course Schedule](https://leetcode.com/problems/course-schedule)
 - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands)
